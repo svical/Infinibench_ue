@@ -88,8 +88,6 @@ this folder; the Blender-side scripts depend on them.
 
 After steps 1–6 every subsequent scene can swap in a new USD without
 manual editor work, *provided you don't rename the map or asset paths.*
-Step 5 (USD import) currently has to happen interactively in the editor;
-we're tracking automated USD-importer invocation as a follow-up.
 
 ## Running
 
