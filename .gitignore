@@ -1,0 +1,3 @@
+configs/defaults.env
+*.pyc
+__pycache__/
